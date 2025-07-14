@@ -36,6 +36,8 @@ Résultats obtenus
 - Mois les plus chauds : juillet, août
 - Mois les plus froids : janvier, décembre
 
+![Température moyenne par mois](graph.png)
+
 Exécution du code
 ---------------------
 1. Installer les dépendances :
